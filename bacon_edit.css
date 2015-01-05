@@ -1,0 +1,29 @@
+#editorDiv {
+    background-color: #FFF;
+    font-family: 'Lucida Console', Monaco, monospace;
+    line-height: 10px;
+    float: left;
+}
+
+#editorKeyDiv, #linkDiv {
+    float: left;
+    padding-left: 20px;
+    font-family: 'Lucida Console', Monaco, monospace;
+}
+
+#linkDiv {
+    width: 400px;
+	max-width: 400px;
+}
+
+.editTile {
+    padding: 2px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    line-height: 10px;
+}
+
+.selected {
+    background-color: #88D;
+}
+

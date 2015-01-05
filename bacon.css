@@ -1,0 +1,45 @@
+#gameDiv {
+    background-color: #FFF;
+    font-family: 'Lucida Console', Monaco, monospace;
+    line-height: 10px;
+    float: left;
+}
+
+#keyDiv, #msgDiv {
+    float: left;
+    padding-left: 20px;
+    font-family: 'Lucida Console', Monaco, monospace;
+}
+
+.tile {
+    float: left;
+    height: 10px;
+    width: 10px;
+}
+
+.light_0 { background-color: #000; }
+.light_1 { background-color: #111; }
+.light_2 { background-color: #222; }
+.light_3 { background-color: #333; }
+.light_4 { background-color: #444; }
+.light_5 { background-color: #555; }
+.light_6 { background-color: #666; }
+.light_7 { background-color: #777; }
+.light_8 { background-color: #888; }
+.light_9 { background-color: #999; }
+.light_A { background-color: #AAA; }
+.light_B { background-color: #BBB; }
+.light_C { background-color: #CCC; }
+.light_D { background-color: #DDD; }
+.light_E { background-color: #EEE; }
+.light_F { background-color: #FFF; }
+
+/*
+.wall { background-color: #333; color: #333; }
+.health { color: #0C0; }
+.empty { color: #FFF; }
+.cactus { color: #0C0; }
+.bacon { color: #630; }
+.player { color: #00F; }
+.grave { color: #666; }
+*/
